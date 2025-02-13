@@ -39,7 +39,7 @@ function App() {
     return (
       <div className="min-h-screen bg-gradient-to-br from-red-100 to-pink-100 flex flex-col items-center justify-center p-4">
         <div className="max-w-2xl mx-auto text-center space-y-8 animate-fadeIn">
-          <h2 className="text-3xl font-bold text-red-600 mb-4">I knew it.</h2>
+          <h2 className="text-3xl font-bold text-red-600 mb-4">I knew it Priyanka Cutu.</h2>
           <div className="bg-white/80 backdrop-blur-sm p-8 rounded-xl shadow-lg">
             <p className="text-xl text-gray-800 whitespace-pre-line font-serif leading-relaxed">
               Here is something:
